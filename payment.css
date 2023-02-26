@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background:#a8dadc;
+}
+.container5{
+    background-color: #f1faee;
+    max-width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0,0.1);
+}
+h3{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container5 span{
+    color: red;
+}
+.ran{
+    margin-bottom: 20px;
+}
+.container5 p{
+    
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+.form-control{
+    margin-bottom: 15px;
+}
+.ran{
+    outline: none;
+    border: 1px solid #a5a58d;
+}

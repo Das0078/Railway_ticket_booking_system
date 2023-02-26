@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background:radial-gradient(#fff,#8ecae6);
+    width: 100%;
+}
+
+
+.container{
+   
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 1200px;
+    border-radius: 5px;
+    box-shadow: 10px 5px 5px #8ecae6;
+    margin-top: 100px;
+    box-sizing: border-box;
+    margin-left: 200px;
+    border: thick double #000;
+ 
+   
+    
+
+}
+.container .head1,.head2{
+    text-align: center;
+    padding-top: 10px;
+
+  
+}
+.container .logo{
+    width: 150px;
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
+
+.tab-1{
+    table-layout: fixed;
+     width: 100%;
+     text-align: center;
+     padding-bottom: 10px;
+}
+.tab-1 td{
+    padding-left: 20px;
+    
+    
+}
+
+
+  
+
+@media only screen and (max-width: 994px) {
+
+    .logo{
+        display: none;
+    }
+    
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.letter{
+    background-color: #ced4da;
+    max-width: 800px;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0,0.1);
+    margin-top: 100px;
+    
+   
+}
+.bi-person-check-fill{
+    font-size: 58px;
+    color: rgb(7, 160, 7);
+}
+
+button{
+margin-bottom: 15px;
+}
+.tab-1{
+    table-layout: fixed;
+     width: 100%;
+     text-align: center;
+     padding-bottom: 10px;
+}
