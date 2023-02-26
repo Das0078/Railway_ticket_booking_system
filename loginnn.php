@@ -23,7 +23,7 @@ if(isset($_POST['log'])){
     }
    
     }else{
-      echo  '<div class="alert alert-danger alert-dismissible fade show" role="alert">
+      echo  'myname<div class="alert alert-danger alert-dismissible fade show" role="alert">
       <strong>Error!</strong> Login details is incorrect.Please try again.
       <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
     </div>';
